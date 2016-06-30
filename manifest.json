@@ -1,0 +1,8 @@
+{
+    "name": "TV United Kingdom",
+    "id": "com.getwatchthis.tv-gb",
+    "version": "1",
+    "kind": "tv",
+    "image": "flag:gb",
+    "short_description": "TV channels from United Kingdom",
+}
