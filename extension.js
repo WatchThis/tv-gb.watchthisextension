@@ -1,5 +1,4 @@
 function content(cid) {
-    log(cid);
     return function() {
         return fetch("http://www.filmon.tv/api-v2/channel/" + cid).then(function (resp) {
             return resp.json();
